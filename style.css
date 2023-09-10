@@ -1,0 +1,14 @@
+#firstsentence {
+    font-size: 50px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    color: rgb(0, 26, 255);
+}
+.inputfield {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    color: black;
+    top: 100px;
+}
